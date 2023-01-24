@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./assets/nitic_logo.png" alt="logo"/>
+    <img src="https://github.com/robocon-ichinoseki-Bteam/.github/blob/main/profile/assets/nitic_logo.png" alt="logo"/>
 </p>
 
 # Introduction
